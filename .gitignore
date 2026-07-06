@@ -1,0 +1,16 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User settings
+*.user
+*.suo
+
+# Secrets
+appsettings.Development.json
+
+# ASP.NET User Secrets
+secrets.json
